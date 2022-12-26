@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8E3EA93829599E0F001B30DD /* Appetiser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E3EA93729599E0F001B30DD /* Appetiser.swift */; };
 		8E9599952958E20C00E20A9C /* AppEtizersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E9599942958E20C00E20A9C /* AppEtizersApp.swift */; };
 		8E9599972958E20C00E20A9C /* AppetiserTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E9599962958E20C00E20A9C /* AppetiserTabView.swift */; };
 		8E9599992958E20D00E20A9C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E9599982958E20D00E20A9C /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8E3EA93729599E0F001B30DD /* Appetiser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Appetiser.swift; sourceTree = "<group>"; };
 		8E9599912958E20C00E20A9C /* AppEtizers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppEtizers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E9599942958E20C00E20A9C /* AppEtizersApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppEtizersApp.swift; sourceTree = "<group>"; };
 		8E9599962958E20C00E20A9C /* AppetiserTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetiserTabView.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				8E9599A62958E2B600E20A9C /* AppetiserListView.swift */,
 				8E9599A22958E28100E20A9C /* AccountView.swift */,
 				8E9599A42958E29100E20A9C /* OrderView.swift */,
+				8E3EA93729599E0F001B30DD /* Appetiser.swift */,
 				8E9599982958E20D00E20A9C /* Assets.xcassets */,
 				8E95999A2958E20D00E20A9C /* Preview Content */,
 			);
@@ -151,6 +154,7 @@
 				8E9599972958E20C00E20A9C /* AppetiserTabView.swift in Sources */,
 				8E9599952958E20C00E20A9C /* AppEtizersApp.swift in Sources */,
 				8E9599A72958E2B600E20A9C /* AppetiserListView.swift in Sources */,
+				8E3EA93829599E0F001B30DD /* Appetiser.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
